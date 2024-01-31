@@ -1,0 +1,30 @@
+Ecommerce 
+https://github.com/vqasimov12/E-commerce.git
+
+Inheritance 1
+https://github.com/vqasimov12/Inheritance-Task-1.git
+
+Inheritance 2
+https://github.com/vqasimov12/Inheritance-Task-2.git
+
+Polimorphism
+https://github.com/vqasimov12/Polimorphism-Task.git
+
+Registration
+https://github.com/vqasimov12/Class-registration.git
+
+Linked list
+https://github.com/vqasimov12/Linked-lists.git
+
+Filestream
+https://github.com/vqasimov12/Filestream.git
+
+
+Exception handling
+https://github.com/vqasimov12/Exception-handling.git
+
+Abstraction
+https://github.com/vqasimov12/Abstraction.git
+
+Predicates
+https://github.com/vqasimov12/Predicates-algorithm.git
